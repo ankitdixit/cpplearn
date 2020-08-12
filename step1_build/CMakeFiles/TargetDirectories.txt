@@ -1,3 +1,0 @@
-/data/cpplearn/step1_build/CMakeFiles/rebuild_cache.dir
-/data/cpplearn/step1_build/CMakeFiles/HelloWorld.dir
-/data/cpplearn/step1_build/CMakeFiles/edit_cache.dir
